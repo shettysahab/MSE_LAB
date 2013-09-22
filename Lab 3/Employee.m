@@ -1,6 +1,5 @@
 #import "Employee.h"
 @implementation Employee
-//@synthesize name,dept,eid;
 
 -(void) setName:(NSString *)n
 {
